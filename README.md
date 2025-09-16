@@ -112,11 +112,7 @@ z
 ```
 <img width="757" height="660" alt="image" src="https://github.com/user-attachments/assets/eaf09dc4-f56b-40e5-bf4b-3b770f5db8fd" />
 
-```
-df1 = ir[z<3]
-df1
-```
-<img width="727" height="507" alt="image" src="https://github.com/user-attachments/assets/cf5c311d-f11c-40e1-9192-13194cf26af4" />
+
 
 # Result
 Thus to read the given data and perform data cleaning and save the cleaned data to a file done successfully.
