@@ -49,10 +49,7 @@ df.isnull().sum()
 ```
 <img width="172" height="557" alt="image" src="https://github.com/user-attachments/assets/be3221c3-0b7e-4bd3-ba5d-1de92e0cd2cf" />
 
-```
-df.isnull().any()
-```
-<img width="233" height="571" alt="image" src="https://github.com/user-attachments/assets/929b5cd7-7a1f-46e6-981e-951ac89cb99f" />
+
 
 ```
 df.dropna()
@@ -64,16 +61,6 @@ df.fillna(5)
 ```
 <img width="1078" height="871" alt="image" src="https://github.com/user-attachments/assets/67e6932a-b280-4859-a6e6-723e096d1ba4" />
 
-```
-df.fillna(method = 'ffill')
-```
-<img width="1016" height="846" alt="image" src="https://github.com/user-attachments/assets/167ffdc5-406a-4231-b0e5-93e338fb5e2a" />
-
-
-```
-df.fillna(method = 'bfill')
-```
-<img width="1010" height="842" alt="image" src="https://github.com/user-attachments/assets/c19302cd-1e2d-40d2-b7da-14cc788d7a9e" />
 
 ```
 df.fillna({'GENDER': 'MALE','NAME':'RAM','TOTAL':602.5,'AVG':108.057777})
